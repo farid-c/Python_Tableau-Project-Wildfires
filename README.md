@@ -1,5 +1,8 @@
 # Python_Tableau-Project-Wildfires
 
+# Final Tableau Story Board:
+https://public.tableau.com/app/profile/farid.chehraz/viz/USAWildfires1992-2018v2/USAWildfires?publish=yes
+
 # CareerFoundry Final Project
 
 # Objective
@@ -21,6 +24,9 @@ The wildfire records were collated from federal, state and local fire organisati
 It is an open-source data set without additional permissions or fees:
 https://www.fs.usda.gov/rds/archive/Catalog/RDS-2013-0009.5
 Short, Karen C. 2021. Spatial wildfire occurrence data for the United States, 1992-2018 [FPA_FOD_20210617]. 5th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.5
+
+Additional data source (climate data):
+https://www.ncdc.noaa.gov/cag/national/time-series/110/tmax/ann/12/1992-2018?trend=true&trend_base=10&begtrendyear=1992&endtrendyear=2018
 
 # Data Collection
 In some states, reporting wildfires is voluntary. It has been estimated that only two-thirds of fires of any type, are reported to the system of record for U.S. fire departments, NFIRS. Subsequently, this dataset is likely to be an incomplete picture of wildfires in the US.
