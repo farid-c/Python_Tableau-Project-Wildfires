@@ -28,5 +28,7 @@ The database contains both geospatial and time series data as well as key data p
 
 # Hypotheses
 The frequency and geographical range of wildfires have increased over time.
+
 Due to higher temperature climates, southern states have a higher risk of wildfires.
+
 Historical wildfire data can be used to determine trends over time and also help identify high risk states.
